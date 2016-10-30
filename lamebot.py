@@ -16,6 +16,7 @@ try:
     Jack = Cleverbot ()
     Jill = Cleverbot ()
     JackQ = raw_input ('Enter start text: ')
+# LoopVar = to control loop
     LoopVar = True
     Speech2Txt = "kek"
 
